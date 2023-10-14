@@ -1,6 +1,6 @@
 # Dico 
 
-![plot]('screenshots/1.png)
+![alt text](screenshots/1.png)
 
 Offile English-Persian Dictionary App Built with Flutter
 
